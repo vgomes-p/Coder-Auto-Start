@@ -34,7 +34,7 @@ maxsr()
 
 #open vscode
 auto.press("win")
-auto.write("vscode") #change to the IDE you user to code
+auto.write("vscode") #change to the IDE you used to code
 auto.press("enter")
 tm.sleep(.5)
 
